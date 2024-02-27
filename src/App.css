@@ -45,7 +45,7 @@ body {
 .main {
   /* margin-left: -90px; */
   display: flex;
-  align-items: start;
+  align-items: flex-start;
   justify-content: center;
   background: transparent;
   height: auto;
@@ -72,8 +72,8 @@ body {
   background: transparent;
   /* height: 100%; */
   display: flex;
-  justify-content: start;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: flex-start;
   flex-direction: column;
   padding: 15px;
 }
@@ -209,7 +209,7 @@ body {
   background: transparent;
   display: flex;
   justify-content: center;
-  align-items: start;
+  align-items: flex-start;
   gap: 5px;
   /* border: 1px green solid; */
 }
@@ -229,7 +229,7 @@ body {
   background: transparent;
   display: flex;
   justify-content: center;
-  align-items: start;
+  align-items: flex-start;
   gap: 5px;
 }
 
@@ -242,7 +242,7 @@ body {
   background: transparent;
   display: flex;
   justify-content: center;
-  align-items: start;
+  align-items: flex-start;
   gap: 5px;
 }
 
@@ -567,7 +567,7 @@ body {
     background: transparent;
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: flex-start;
     gap: 5px;
   }
 
@@ -585,7 +585,7 @@ body {
     background: transparent;
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: flex-start;
     gap: 5px;
     margin-left: 20px;
   }
@@ -599,7 +599,7 @@ body {
     background: transparent;
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: flex-start;
     gap: 5px;
   }
 
